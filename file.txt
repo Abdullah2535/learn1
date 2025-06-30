@@ -4,3 +4,4 @@ Third line in file
 Fourth  in file in testing branch
 Fifth line in file in testing branch
 Sixth line in file in master branch
+Seventh line in main branch
